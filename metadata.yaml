@@ -1,0 +1,35 @@
+_repo: Portugal-contemporaneo-Vol-II-of-2_71871
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliveira Martins, J. P. (Joaquim Pedro)
+    aliases:
+    - Martins, Joaquim Pedro de Oliveira
+    - Martins, J. P. Oliveira
+    - Martins, Oliveira
+    birthdate: 1845
+    deathdate: 1894
+    gutenberg_agent_id: '36992'
+    url: http://www.gutenberg.org/2009/agents/36992
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+    - https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71871'
+language: pt
+pgterms:marc905: 20070330092722martins
+pgterms:marc906: '1895'
+pgterms:marc907: PT
+production_note: Charlene Taylor, Rita Farinha and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: '  $aLisboa :$bLivr. de Antonio Maria Pereira, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Portugal contemporaneo, Vol. II (of 2)
+url: http://www.gutenberg.org/ebooks/71871
