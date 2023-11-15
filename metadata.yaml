@@ -1,5 +1,8 @@
 _repo: Portugal-contemporaneo-Vol-II-of-2_71871
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71871-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliveira Martins, J. P. (Joaquim Pedro)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
     - https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71871#Portugal-contemporaneo-Vol-II-of-2
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71871'
